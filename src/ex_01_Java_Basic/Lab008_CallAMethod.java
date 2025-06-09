@@ -5,7 +5,7 @@ public class Lab008_CallAMethod {
         System.out.println("This is my method written");
 
     }
-
+// this is how we call it inside main
     public static void main(String[] args) {
         MyMethod();
         System.out.println("My method is ran");
