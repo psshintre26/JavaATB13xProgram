@@ -1,4 +1,4 @@
-package Test1;
+package CodingTest19June;
 
 public class CodingChallenge4 {
     public static void main(String[] args) {

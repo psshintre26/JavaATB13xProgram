@@ -1,4 +1,4 @@
-package Test1;
+package CodingTest19June;
 
 public class CodingChallenge3 {
 //    Comparison and Logical Operators

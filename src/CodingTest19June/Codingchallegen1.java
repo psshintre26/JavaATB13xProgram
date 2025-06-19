@@ -1,4 +1,4 @@
-package Test1;
+package CodingTest19June;
 
 public class Codingchallegen1 {
 //    Variable Declaration and Initialization
