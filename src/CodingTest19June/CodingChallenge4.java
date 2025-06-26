@@ -8,12 +8,22 @@ public class CodingChallenge4 {
 //        - Show the difference between ++i and i++
 //                - Show the difference between --i and i--
 //                - Print values before and after operations
-//        int i = 5;
-//        System.out.println("Pre-increment: "+++i);
-//        System.out.println("Post-increment: "+ (i++));
-//        System.out.println("Pre-decrement:  "+ (--i));
-//        System.out.println("Post-decrement:  "+ (i--));
+        int i = 5;
+
+        System.out.println("Initial value of i: " + i);
+
+        // Post-increment
+        System.out.println("Using i++ (post-increment): " + i++);
+        System.out.println("Value of i after i++: " + i);
+
+        // Reset i
+        i = 5;
+
+        // Pre-increment
+        System.out.println("Using ++i (pre-increment): " + ++i);
+        System.out.println("Value of i after ++i: " + i);
+    }
+
 
 
     }
-}

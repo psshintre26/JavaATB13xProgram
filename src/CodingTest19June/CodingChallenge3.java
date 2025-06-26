@@ -17,5 +17,6 @@ public class CodingChallenge3 {
 //    Explanation: Program compares two numbers using various operators
 public static void main(String[] args) {
 
+
 }
 }
