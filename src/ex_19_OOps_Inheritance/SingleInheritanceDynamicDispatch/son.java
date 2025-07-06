@@ -1,4 +1,4 @@
-package ex_19_OOps_Inheritance;
+package ex_19_OOps_Inheritance.SingleInheritanceDynamicDispatch;
 
 class son extends father {
     void bhk3() {

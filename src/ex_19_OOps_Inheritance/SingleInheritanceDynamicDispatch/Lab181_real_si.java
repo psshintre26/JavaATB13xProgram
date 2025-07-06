@@ -1,6 +1,4 @@
-package ex_19_OOps_Inheritance;
-
-import ex_17_OOPs.TestCase1;
+package ex_19_OOps_Inheritance.SingleInheritanceDynamicDispatch;
 
 public class Lab181_real_si {
     public static void main(String[] args) {

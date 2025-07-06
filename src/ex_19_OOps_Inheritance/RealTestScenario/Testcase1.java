@@ -1,4 +1,4 @@
-package InheritanceRealTC;
+package ex_19_OOps_Inheritance.RealTestScenario;
 
 public class Testcase1 extends ComonLib {
     void runtc1(){

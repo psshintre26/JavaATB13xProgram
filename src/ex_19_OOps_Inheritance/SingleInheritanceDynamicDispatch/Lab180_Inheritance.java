@@ -1,4 +1,4 @@
-package ex_19_OOps_Inheritance;
+package ex_19_OOps_Inheritance.SingleInheritanceDynamicDispatch;
 
 public class Lab180_Inheritance {
     public static void main(String[] args) {

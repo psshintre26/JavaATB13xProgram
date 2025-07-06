@@ -1,4 +1,4 @@
-package ex_19_OOps_Inheritance;
+package ex_19_OOps_Inheritance.SingleInheritanceDynamicDispatch;
 
 public class testcase2 extends CommonToAll {
    void runtc2(){
