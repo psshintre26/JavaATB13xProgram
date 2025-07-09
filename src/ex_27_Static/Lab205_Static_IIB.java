@@ -23,5 +23,13 @@ public class Lab205_Static_IIB {
 class P{
     static Integer a = 10;
     Integer b = 44;
-}
+
 //so static means common to all and it can get directly assigned to the class
+    static {  // This is static block.
+    // This is called whenever a class a loaded.
+    System.out.println("Hi, this is called, becoz, class is laoded");
+    }
+
+
+
+}
